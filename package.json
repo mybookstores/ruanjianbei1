@@ -1,0 +1,40 @@
+{
+  "name": "ruanjianbei",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "@tinymce/tinymce-vue": "^5.1.1",
+    "@vueup/vue-quill": "^1.2.0",
+    "@wangeditor/editor": "^5.1.23",
+    "@wangeditor/editor-for-vue": "^5.1.12",
+    "axios": "^1.7.2",
+    "core-js": "^3.8.3",
+    "element-plus": "^2.7.4",
+    "socket.io-client": "^4.7.5",
+    "tinymce": "^5.10.2",
+    "typed.js": "^2.1.0",
+    "vue": "^3.2.13",
+    "vue-router": "^4.0.3",
+    "vue-ueditor-wrap": "^3.0.8",
+    "vuex": "^4.0.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-private-methods": "^7.24.7",
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "@vue/cli-service": "~5.0.0",
+    "sass": "^1.32.7",
+    "sass-loader": "^12.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
